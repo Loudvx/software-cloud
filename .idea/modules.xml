@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/software-cloud.iml" filepath="$PROJECT_DIR$/.idea/modules/software-cloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/software-cloud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/software-cloud_main.iml" group="software-cloud" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/software-cloud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/software-cloud_test.iml" group="software-cloud" />
     </modules>
   </component>
 </project>
